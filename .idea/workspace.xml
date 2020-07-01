@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="EK_TM4C1294XL_Temperature_Client" targetName="EK_TM4C1294XL_Temperature_Client_1.0.0" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6de5c6f2-59c0-4af5-9740-9218c35f0bdd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Raspberry_Pi4_Server/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Raspberry_Pi4_Server/CMakeLists.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dunRGLSBLdp386Ou3zbXm6cynC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RunManager" selected="Shell Script.cleanup_script.sh">
+    <configuration name="EK_TM4C1294XL_Temperature_Client_1.0.0" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EK_TM4C1294XL_Temperature_Client" TARGET_NAME="EK_TM4C1294XL_Temperature_Client_1.0.0" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EK_TM4C1294XL_Temperature_Client" RUN_TARGET_NAME="EK_TM4C1294XL_Temperature_Client_1.0.0">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="build.sh" type="ShConfigurationType" temporary="true">
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/Raspberry_Pi4_Server/build_script.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/Raspberry_Pi4_Server" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cleanup_script.sh" type="ShConfigurationType" temporary="true">
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/Raspberry_Pi4_Server/cleanup_script.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/Raspberry_Pi4_Server" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.EK_TM4C1294XL_Temperature_Client_1.0.0" />
+      <item itemvalue="Shell Script.build.sh" />
+      <item itemvalue="Shell Script.cleanup_script.sh" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Shell Script.cleanup_script.sh" />
+        <item itemvalue="Shell Script.build.sh" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6de5c6f2-59c0-4af5-9740-9218c35f0bdd" name="Default Changelist" comment="" />
+      <created>1593283836723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593283836723</updated>
+      <workItem from="1593283845240" duration="65000" />
+      <workItem from="1593283919220" duration="10195000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="682" y="356" width="548" height="388" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593307658986">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="682" y="356" width="548" height="388" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1920.1055@0.25.1920.1055" timestamp="1593307658986" />
+    <state x="743" y="311" width="426" height="479" key="FileChooserDialogImpl" timestamp="1593283904384">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="743" y="311" width="426" height="479" key="FileChooserDialogImpl/0.25.1920.1055@0.25.1920.1055" timestamp="1593283904384" />
+    <state width="1874" height="281" key="GridCell.Tab.0.bottom" timestamp="1593308700714">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1874" height="281" key="GridCell.Tab.0.bottom/0.25.1920.1055@0.25.1920.1055" timestamp="1593308700714" />
+    <state width="1874" height="281" key="GridCell.Tab.0.center" timestamp="1593308700711">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1874" height="281" key="GridCell.Tab.0.center/0.25.1920.1055@0.25.1920.1055" timestamp="1593308700711" />
+    <state width="1874" height="281" key="GridCell.Tab.0.left" timestamp="1593308700711">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1874" height="281" key="GridCell.Tab.0.left/0.25.1920.1055@0.25.1920.1055" timestamp="1593308700711" />
+    <state width="1874" height="281" key="GridCell.Tab.0.right" timestamp="1593308700712">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1874" height="281" key="GridCell.Tab.0.right/0.25.1920.1055@0.25.1920.1055" timestamp="1593308700712" />
+    <state width="1874" height="347" key="GridCell.Tab.1.bottom" timestamp="1593308162090">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1874" height="347" key="GridCell.Tab.1.bottom/0.25.1920.1055@0.25.1920.1055" timestamp="1593308162090" />
+    <state width="1874" height="347" key="GridCell.Tab.1.center" timestamp="1593308162088">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1874" height="347" key="GridCell.Tab.1.center/0.25.1920.1055@0.25.1920.1055" timestamp="1593308162088" />
+    <state width="1874" height="347" key="GridCell.Tab.1.left" timestamp="1593308162087">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1874" height="347" key="GridCell.Tab.1.left/0.25.1920.1055@0.25.1920.1055" timestamp="1593308162087" />
+    <state width="1874" height="347" key="GridCell.Tab.1.right" timestamp="1593308162089">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1874" height="347" key="GridCell.Tab.1.right/0.25.1920.1055@0.25.1920.1055" timestamp="1593308162089" />
+    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel" timestamp="1593283914699">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel/0.25.1920.1055@0.25.1920.1055" timestamp="1593283914699" />
+    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel" timestamp="1593283914698">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel/0.25.1920.1055@0.25.1920.1055" timestamp="1593283914698" />
+    <state x="464" y="188" key="SettingsEditor" timestamp="1593307466439">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="464" y="188" key="SettingsEditor/0.25.1920.1055@0.25.1920.1055" timestamp="1593307466439" />
+    <state x="666" y="297" width="587" height="512" key="find.popup" timestamp="1593295759969">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="666" y="297" width="587" height="512" key="find.popup/0.25.1920.1055@0.25.1920.1055" timestamp="1593295759969" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Raspberry_Pi4_Server/src/server/rpi_server.c</url>
+          <line>55</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="pi_mode ? 1 : 0" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
